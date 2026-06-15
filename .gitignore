@@ -14,3 +14,6 @@ env/
 
 # macOS
 .DS_Store
+
+# Saved user style profile (personal data)
+data/user_profile.json
